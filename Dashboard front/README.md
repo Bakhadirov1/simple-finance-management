@@ -7,18 +7,20 @@ This front-end is designed mostly to work with [this](https://github.com/0000906
 - User profile page with all operations
 - Create operation
 
+
+
 # Installation
 1. First download ZIP or copy the repository
 ```
-git clone https://github.com/00009065/Dashboard-front-end.git
+git clone https://github.com/Bakhadirov1/simple-finance-management.git
 ```
 
-2. Install all dependencies
+2. Install all dependencies (separately for front-end and back-end)
 ```
 npm install
 ```
 
-3. Run local server
+3. Run local server (for front-end)
 ```
 npm run serve
 ```
